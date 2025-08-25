@@ -4,7 +4,7 @@
 <img align="right" alt="Coder GIF" height="250" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" /> 
 
 - 🌱 I’m currently learning **App Development, Java**
-- 💬 Ask me about **C, C++, HTML, CSS, Java, Dart**
+- 💬 Ask me about **C, C++, HTML, CSS,javaScript,Tailwindcss, Java, Dart**
 - 📫 How to reach me **msiyem978@gmail.com**
 
 ---
