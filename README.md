@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MAHFUJUL HAQUE SIYEM</h1>
-<h3 align="center">I am passionate about learning new cool things.</h3>
+<h3 align="center">I enjoy coding and discovering creative ways to solve problems.</h3>
 
 <img align="right" alt="Coder GIF" height="250" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" /> 
 
